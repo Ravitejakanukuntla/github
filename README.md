@@ -56,8 +56,5 @@ Modify the machine learning models: Experiment with different algorithms, hyperp
 
 Enhance the web interface: Customize the design, add additional input fields, or provide more detailed insights about the prediction results.
 
-## License
-This project is licensed under the MIT License. Feel free to modify and distribute it as per the terms of the license.
-
 ## Acknowledgments
 This project was inspired by the need to predict placement outcomes for students and utilizes various machine learning techniques. It leverages the power of Streamlit to provide a user-friendly interface.
